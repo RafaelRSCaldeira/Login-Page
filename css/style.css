@@ -99,6 +99,10 @@ body {
     font-weight: 600;
 }
 
+.wrapper .btn:hover {
+    cursor: pointer;
+}
+
 .wrapper .register-link{
     font-size: 0.9em;
     text-align: center;
